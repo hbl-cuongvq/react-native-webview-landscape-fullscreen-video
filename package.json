@@ -1,0 +1,26 @@
+{
+  "name": "react-native-webview-landscape-fullscreen",
+  "version": "1.0.7",
+  "description": "Auto landscape mode when play video in fullscreen mode",
+  "main": "index.js",
+  "bin": "./bin/fixim.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbl-cuongvq/react-native-webview-landscape-fullscreen-video.git"
+  },
+  "keywords": [
+    "react-native-webview",
+    "video",
+    "fullscreen",
+    "landscape"
+  ],
+  "author": "Vương Quốc Cường",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbl-cuongvq/react-native-webview-landscape-fullscreen-video.git"
+  },
+  "homepage": "https://github.com/hbl-cuongvq/react-native-webview-landscape-fullscreen-video.git"
+}
